@@ -29,6 +29,7 @@ public class Program
         {
             app.MapOpenApi();
         }
+        
 
         app.UseHttpsRedirection();
 
